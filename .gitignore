@@ -1,0 +1,18 @@
+# 排除編譯產物、執行日誌與個人開發環境設定，公開儲存庫保留方案及原始碼。
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+[Ll]ogs/
+App_Data/
+TestResults/
+.env
+.env.*
+*.pfx
+*.p12
+*.key
